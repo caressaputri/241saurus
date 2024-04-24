@@ -2,11 +2,28 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://caressaputri.github.io/241saurus/blog</id>
     <title>241saurus Blog</title>
-    <updated>2021-08-26T00:00:00.000Z</updated>
+    <updated>2024-04-24T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://caressaputri.github.io/241saurus/blog"/>
     <subtitle>241saurus Blog</subtitle>
     <icon>https://caressaputri.github.io/241saurus/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Pop Quiz]]></title>
+        <id>https://caressaputri.github.io/241saurus/blog/Pop Quiz</id>
+        <link href="https://caressaputri.github.io/241saurus/blog/Pop Quiz"/>
+        <updated>2024-04-24T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[This is my POP QUIZ posting!]]></summary>
+        <content type="html"><![CDATA[<p>This is my POP QUIZ posting!</p>]]></content>
+        <author>
+            <name>Caressa Putri</name>
+            <uri>https://github.com/caressaputri</uri>
+        </author>
+        <author>
+            <name>Maulana Seto</name>
+            <uri>https://github.com/MaulanaSeto</uri>
+        </author>
+        <category label="greetings" term="greetings"/>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://caressaputri.github.io/241saurus/blog/welcome</id>
